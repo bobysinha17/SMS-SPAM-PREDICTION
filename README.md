@@ -1,2 +1,3 @@
-# email-spam-classifier-new
-End to end code for the email spam classifier project
+# SMS Spam Prediction using Natural Language Processing (NLP) and ML Algorithims.
+
+
